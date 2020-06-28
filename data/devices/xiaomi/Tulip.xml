@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="first_start" value="false" />
+    <boolean name="show_reboot" value="false" />
+    <boolean name="confirm_reboot" value="false" />
+    <boolean name="allow_3rd_party_intents" value="true" />
+    <string name="initial_screen">ROMS</string>
+    <boolean name="use_dark_theme" value="true" />
+    <boolean name="zip_flashing_first_use_show_dialog" value="true" />
+    <boolean name="show_exit" value="false" />
+</map>
